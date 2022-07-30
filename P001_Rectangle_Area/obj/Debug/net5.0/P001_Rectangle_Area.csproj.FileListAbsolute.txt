@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\bin\Debug\net5.0\P001_Rectangle_Area.exe
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\bin\Debug\net5.0\P001_Rectangle_Area.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\bin\Debug\net5.0\P001_Rectangle_Area.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\bin\Debug\net5.0\P001_Rectangle_Area.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\bin\Debug\net5.0\P001_Rectangle_Area.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\bin\Debug\net5.0\ref\P001_Rectangle_Area.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\bin\Debug\net5.0\P001_Rectangle_Area.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\obj\Debug\net5.0\P001_Rectangle_Area.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\obj\Debug\net5.0\P001_Rectangle_Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\obj\Debug\net5.0\P001_Rectangle_Area.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\obj\Debug\net5.0\P001_Rectangle_Area.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\obj\Debug\net5.0\P001_Rectangle_Area.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\obj\Debug\net5.0\P001_Rectangle_Area.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\obj\Debug\net5.0\ref\P001_Rectangle_Area.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\obj\Debug\net5.0\P001_Rectangle_Area.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P001_Rectangle_Area\obj\Debug\net5.0\P001_Rectangle_Area.genruntimeconfig.cache

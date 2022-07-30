@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.exe
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\bin\Debug\net5.0\ref\P006_LessThanTenAndOdd.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\obj\Debug\net5.0\ref\P006_LessThanTenAndOdd.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.genruntimeconfig.cache

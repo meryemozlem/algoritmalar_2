@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.exe
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\bin\Debug\net5.0\ref\P004_CompareTwoValues.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\obj\Debug\net5.0\ref\P004_CompareTwoValues.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.genruntimeconfig.cache

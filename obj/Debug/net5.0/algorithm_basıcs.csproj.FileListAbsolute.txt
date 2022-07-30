@@ -1,0 +1,5 @@
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\obj\Debug\net5.0\algorithm_basıcs.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\obj\Debug\net5.0\algorithm_basıcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\obj\Debug\net5.0\algorithm_basıcs.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\obj\Debug\net5.0\algorithm_basıcs.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\obj\Debug\net5.0\algorithm_basıcs.csproj.CoreCompileInputs.cache

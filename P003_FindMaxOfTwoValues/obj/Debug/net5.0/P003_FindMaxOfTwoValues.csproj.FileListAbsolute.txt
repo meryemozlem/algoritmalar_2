@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\bin\Debug\net5.0\P003_FindMaxOfTwoValues.exe
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\bin\Debug\net5.0\P003_FindMaxOfTwoValues.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\bin\Debug\net5.0\P003_FindMaxOfTwoValues.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\bin\Debug\net5.0\P003_FindMaxOfTwoValues.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\bin\Debug\net5.0\P003_FindMaxOfTwoValues.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\bin\Debug\net5.0\ref\P003_FindMaxOfTwoValues.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\bin\Debug\net5.0\P003_FindMaxOfTwoValues.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\obj\Debug\net5.0\P003_FindMaxOfTwoValues.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\obj\Debug\net5.0\P003_FindMaxOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\obj\Debug\net5.0\P003_FindMaxOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\obj\Debug\net5.0\P003_FindMaxOfTwoValues.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\obj\Debug\net5.0\P003_FindMaxOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\obj\Debug\net5.0\P003_FindMaxOfTwoValues.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\obj\Debug\net5.0\ref\P003_FindMaxOfTwoValues.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\obj\Debug\net5.0\P003_FindMaxOfTwoValues.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P003_FindMaxOfTwoValues\obj\Debug\net5.0\P003_FindMaxOfTwoValues.genruntimeconfig.cache

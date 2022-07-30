@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\obj\Debug\net5.0\P005_OddOrEven.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\obj\Debug\net5.0\P005_OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\obj\Debug\net5.0\P005_OddOrEven.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\obj\Debug\net5.0\P005_OddOrEven.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\obj\Debug\net5.0\P005_OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\bin\Debug\net5.0\P005_OddOrEven.exe
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\bin\Debug\net5.0\P005_OddOrEven.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\bin\Debug\net5.0\P005_OddOrEven.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\bin\Debug\net5.0\P005_OddOrEven.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\bin\Debug\net5.0\P005_OddOrEven.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\bin\Debug\net5.0\ref\P005_OddOrEven.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\bin\Debug\net5.0\P005_OddOrEven.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\obj\Debug\net5.0\P005_OddOrEven.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\obj\Debug\net5.0\ref\P005_OddOrEven.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\obj\Debug\net5.0\P005_OddOrEven.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P005_OddOrEven\obj\Debug\net5.0\P005_OddOrEven.genruntimeconfig.cache

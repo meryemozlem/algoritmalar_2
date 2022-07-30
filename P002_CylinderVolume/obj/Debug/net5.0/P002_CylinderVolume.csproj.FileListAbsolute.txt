@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\bin\Debug\net5.0\P002_CylinderVolume.exe
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\bin\Debug\net5.0\P002_CylinderVolume.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\bin\Debug\net5.0\P002_CylinderVolume.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\bin\Debug\net5.0\P002_CylinderVolume.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\bin\Debug\net5.0\P002_CylinderVolume.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\bin\Debug\net5.0\ref\P002_CylinderVolume.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\bin\Debug\net5.0\P002_CylinderVolume.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\obj\Debug\net5.0\P002_CylinderVolume.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\obj\Debug\net5.0\P002_CylinderVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\obj\Debug\net5.0\P002_CylinderVolume.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\obj\Debug\net5.0\P002_CylinderVolume.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\obj\Debug\net5.0\P002_CylinderVolume.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\obj\Debug\net5.0\P002_CylinderVolume.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\obj\Debug\net5.0\ref\P002_CylinderVolume.dll
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\obj\Debug\net5.0\P002_CylinderVolume.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algorithm_basıcs\P002_CylinderVolume\obj\Debug\net5.0\P002_CylinderVolume.genruntimeconfig.cache

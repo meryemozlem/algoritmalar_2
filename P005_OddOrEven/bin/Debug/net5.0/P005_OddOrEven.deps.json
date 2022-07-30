@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P005_OddOrEven/1.0.0": {
+        "runtime": {
+          "P005_OddOrEven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P005_OddOrEven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

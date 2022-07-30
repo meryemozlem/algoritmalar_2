@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P002_CylinderVolume/1.0.0": {
+        "runtime": {
+          "P002_CylinderVolume.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P002_CylinderVolume/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
