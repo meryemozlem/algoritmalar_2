@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algorithm_basıcs\\P000_HelloWorld\\P000_HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\P000_HelloWorld\\P000_HelloWorld.csproj",
       "projectName": "P000_HelloWorld",
-      "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algorithm_basıcs\\P000_HelloWorld\\P000_HelloWorld.csproj",
+      "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\P000_HelloWorld\\P000_HelloWorld.csproj",
       "packagesPath": "C:\\Users\\mozay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algorithm_basıcs\\P000_HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\P000_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mozay\\AppData\\Roaming\\NuGet\\NuGet.Config",

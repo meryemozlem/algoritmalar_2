@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\obj\Debug\net5.0\P0010_GradeState.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\obj\Debug\net5.0\P0010_GradeState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\obj\Debug\net5.0\P0010_GradeState.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\obj\Debug\net5.0\P0010_GradeState.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\obj\Debug\net5.0\P0010_GradeState.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\bin\Debug\net5.0\P0010_GradeState.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\bin\Debug\net5.0\P0010_GradeState.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\bin\Debug\net5.0\P0010_GradeState.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\bin\Debug\net5.0\P0010_GradeState.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\bin\Debug\net5.0\P0010_GradeState.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\bin\Debug\net5.0\ref\P0010_GradeState.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\bin\Debug\net5.0\P0010_GradeState.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\obj\Debug\net5.0\P0010_GradeState.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\obj\Debug\net5.0\ref\P0010_GradeState.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\obj\Debug\net5.0\P0010_GradeState.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P0010_GradeState\obj\Debug\net5.0\P0010_GradeState.genruntimeconfig.cache

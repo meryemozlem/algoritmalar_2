@@ -7,7 +7,7 @@ namespace P000_HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Methaba, ben eMryem özlem aydoğan.");
+            Console.WriteLine("Merhaba, ben Meryem özlem aydoğan.");
         }
     }
 }

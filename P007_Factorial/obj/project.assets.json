@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algorithm_basıcs\\P007_Factorial\\P007_Factorial.csproj",
+      "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\P007_Factorial\\P007_Factorial.csproj",
       "projectName": "P007_Factorial",
-      "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algorithm_basıcs\\P007_Factorial\\P007_Factorial.csproj",
+      "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\P007_Factorial\\P007_Factorial.csproj",
       "packagesPath": "C:\\Users\\mozay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algorithm_basıcs\\P007_Factorial\\obj\\",
+      "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\P007_Factorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mozay\\AppData\\Roaming\\NuGet\\NuGet.Config",

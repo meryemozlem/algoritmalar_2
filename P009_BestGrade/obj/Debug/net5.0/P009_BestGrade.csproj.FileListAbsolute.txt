@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\bin\Debug\net5.0\ref\P009_BestGrade.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\obj\Debug\net5.0\ref\P009_BestGrade.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.genruntimeconfig.cache

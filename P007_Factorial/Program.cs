@@ -32,18 +32,18 @@ namespace P007_Factorial
             Console.WriteLine("Cevap: " + factorial);*/
 
             /*int sayi,i,f=1;
-Console.WriteLine("Faktoriyeli alınacak sayı girin");
-sayi = Convert.ToInt16(Console.ReadLine());
-for (i=1; i <= sayi; i++)
-{
+            Console.WriteLine("Faktoriyeli alınacak sayı girin");
+            sayi = Convert.ToInt16(Console.ReadLine());
+            for (i=1; i <= sayi; i++)
+            {
  
-f= i * f;
+                f= i * f;
  
-}
-Console.WriteLine("Cevap : " + f);
+            }
+            Console.WriteLine("Cevap : " + f);
  
-Console.ReadLine();
-*/
+            Console.ReadLine();
+            */
 
 
 
@@ -64,7 +64,17 @@ Console.ReadLine();
 
 
 
-
+/*
+Console.WriteLine("Bir sayı gir faktöriyelini bulayım.");
+int sayi=Convert.ToInt32(Console.ReadLine());
+int f=1;
+while(sayi>1)
+{
+    f=f*sayi;
+    sayi=sayi-1;
+}
+Console.WriteLine("Girilen değerin faktöriyeli: " + f);
+*/
 
 
 

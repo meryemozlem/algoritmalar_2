@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\obj\Debug\net5.0\P008_SumOfNumber.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\obj\Debug\net5.0\P008_SumOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\obj\Debug\net5.0\P008_SumOfNumber.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\obj\Debug\net5.0\P008_SumOfNumber.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\obj\Debug\net5.0\P008_SumOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\bin\Debug\net5.0\P008_SumOfNumber.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\bin\Debug\net5.0\P008_SumOfNumber.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\bin\Debug\net5.0\P008_SumOfNumber.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\bin\Debug\net5.0\P008_SumOfNumber.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\bin\Debug\net5.0\P008_SumOfNumber.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\bin\Debug\net5.0\ref\P008_SumOfNumber.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\bin\Debug\net5.0\P008_SumOfNumber.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\obj\Debug\net5.0\P008_SumOfNumber.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\obj\Debug\net5.0\ref\P008_SumOfNumber.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\obj\Debug\net5.0\P008_SumOfNumber.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\P008_SumOfNumber\obj\Debug\net5.0\P008_SumOfNumber.genruntimeconfig.cache

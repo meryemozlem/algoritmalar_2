@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algorithm_basıcs\\algorithm_basıcs.csproj",
-      "projectName": "algorithm_basıcs",
-      "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algorithm_basıcs\\algorithm_basıcs.csproj",
+      "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Algorithm_basics.csproj",
+      "projectName": "Algorithm_basics",
+      "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Algorithm_basics.csproj",
       "packagesPath": "C:\\Users\\mozay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algorithm_basıcs\\obj\\",
+      "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mozay\\AppData\\Roaming\\NuGet\\NuGet.Config",

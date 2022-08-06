@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\bin\Debug\net5.0\problems5.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\bin\Debug\net5.0\problems5.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\bin\Debug\net5.0\problems5.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\bin\Debug\net5.0\problems5.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\bin\Debug\net5.0\problems5.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\bin\Debug\net5.0\ref\problems5.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\bin\Debug\net5.0\problems5.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\obj\Debug\net5.0\problems5.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\obj\Debug\net5.0\problems5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\obj\Debug\net5.0\problems5.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\obj\Debug\net5.0\problems5.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\obj\Debug\net5.0\problems5.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\obj\Debug\net5.0\problems5.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\obj\Debug\net5.0\ref\problems5.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\obj\Debug\net5.0\problems5.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\problems5\obj\Debug\net5.0\problems5.genruntimeconfig.cache
