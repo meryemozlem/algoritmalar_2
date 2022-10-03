@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\bin\Debug\net5.0\Q1.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\bin\Debug\net5.0\Q1.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\bin\Debug\net5.0\Q1.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\bin\Debug\net5.0\Q1.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\bin\Debug\net5.0\Q1.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\bin\Debug\net5.0\ref\Q1.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\bin\Debug\net5.0\Q1.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\obj\Debug\net5.0\Q1.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\obj\Debug\net5.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\obj\Debug\net5.0\Q1.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\obj\Debug\net5.0\Q1.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\obj\Debug\net5.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\obj\Debug\net5.0\Q1.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\obj\Debug\net5.0\ref\Q1.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\obj\Debug\net5.0\Q1.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q1\obj\Debug\net5.0\Q1.genruntimeconfig.cache

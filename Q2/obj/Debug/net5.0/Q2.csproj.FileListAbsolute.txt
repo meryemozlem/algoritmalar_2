@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\obj\Debug\net5.0\Q2.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\obj\Debug\net5.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\obj\Debug\net5.0\Q2.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\obj\Debug\net5.0\Q2.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\obj\Debug\net5.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\bin\Debug\net5.0\Q2.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\bin\Debug\net5.0\Q2.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\bin\Debug\net5.0\Q2.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\bin\Debug\net5.0\Q2.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\bin\Debug\net5.0\Q2.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\bin\Debug\net5.0\ref\Q2.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\bin\Debug\net5.0\Q2.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\obj\Debug\net5.0\Q2.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\obj\Debug\net5.0\ref\Q2.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\obj\Debug\net5.0\Q2.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algoritma(ktp)\Q2\obj\Debug\net5.0\Q2.genruntimeconfig.cache
