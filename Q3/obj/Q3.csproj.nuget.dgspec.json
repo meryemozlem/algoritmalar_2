@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q3\\Q3.csproj": {}
+    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q3\\Q3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q3\\Q3.csproj": {
+    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q3\\Q3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q3\\Q3.csproj",
+        "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q3\\Q3.csproj",
         "projectName": "Q3",
-        "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q3\\Q3.csproj",
+        "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q3\\Q3.csproj",
         "packagesPath": "C:\\Users\\mozay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q3\\obj\\",
+        "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mozay\\AppData\\Roaming\\NuGet\\NuGet.Config",

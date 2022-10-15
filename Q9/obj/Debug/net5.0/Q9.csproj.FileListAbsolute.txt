@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\bin\Debug\net5.0\Q9.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\bin\Debug\net5.0\Q9.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\bin\Debug\net5.0\Q9.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\bin\Debug\net5.0\Q9.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\bin\Debug\net5.0\Q9.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\bin\Debug\net5.0\ref\Q9.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\bin\Debug\net5.0\Q9.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\obj\Debug\net5.0\Q9.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\obj\Debug\net5.0\Q9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\obj\Debug\net5.0\Q9.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\obj\Debug\net5.0\Q9.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\obj\Debug\net5.0\Q9.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\obj\Debug\net5.0\Q9.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\obj\Debug\net5.0\ref\Q9.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\obj\Debug\net5.0\Q9.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q9\obj\Debug\net5.0\Q9.genruntimeconfig.cache

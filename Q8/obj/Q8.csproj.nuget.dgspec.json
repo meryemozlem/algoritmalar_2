@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q8\\Q8.csproj": {}
+    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q8\\Q8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q8\\Q8.csproj": {
+    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q8\\Q8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q8\\Q8.csproj",
+        "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q8\\Q8.csproj",
         "projectName": "Q8",
-        "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q8\\Q8.csproj",
+        "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q8\\Q8.csproj",
         "packagesPath": "C:\\Users\\mozay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q8\\obj\\",
+        "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mozay\\AppData\\Roaming\\NuGet\\NuGet.Config",

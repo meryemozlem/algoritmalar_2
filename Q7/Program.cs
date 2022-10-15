@@ -14,7 +14,7 @@ namespace Q7
             {
                 Console.WriteLine("Değer çift sayıdır.");
             }
-            else if (deger%2!=0) // deger%==1
+            else if (deger%2!=0) // deger%2==1
             {
                 Console.WriteLine("Değer tek sayıdır.");
             }

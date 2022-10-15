@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q5\\Q5.csproj": {}
+    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q5\\Q5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q5\\Q5.csproj": {
+    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q5\\Q5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q5\\Q5.csproj",
+        "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q5\\Q5.csproj",
         "projectName": "Q5",
-        "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q5\\Q5.csproj",
+        "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q5\\Q5.csproj",
         "packagesPath": "C:\\Users\\mozay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q5\\obj\\",
+        "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mozay\\AppData\\Roaming\\NuGet\\NuGet.Config",

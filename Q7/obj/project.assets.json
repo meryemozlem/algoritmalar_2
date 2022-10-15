@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q7\\Q7.csproj",
+      "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q7\\Q7.csproj",
       "projectName": "Q7",
-      "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q7\\Q7.csproj",
+      "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q7\\Q7.csproj",
       "packagesPath": "C:\\Users\\mozay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algoritma(ktp)\\Q7\\obj\\",
+      "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\Algorithm_basics\\Q7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mozay\\AppData\\Roaming\\NuGet\\NuGet.Config",

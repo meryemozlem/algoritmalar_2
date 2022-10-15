@@ -11,7 +11,7 @@ namespace Q5
             string ad=Console.ReadLine();
             Console.Write("Soyadınızı giriniz: ");
             string soyad=Console.ReadLine();
-            Console.WriteLine("Merhaba "+ad+" "+soyad+" Seni tekrar görmek harika.");
+            Console.WriteLine("Merhaba " + ad + " " + soyad + " Seni tekrar görmek harika.");
         }
     }
 }

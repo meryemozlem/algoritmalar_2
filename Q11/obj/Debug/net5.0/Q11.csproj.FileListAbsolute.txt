@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\bin\Debug\net5.0\Q11.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\bin\Debug\net5.0\Q11.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\bin\Debug\net5.0\Q11.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\bin\Debug\net5.0\Q11.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\bin\Debug\net5.0\Q11.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\bin\Debug\net5.0\ref\Q11.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\bin\Debug\net5.0\Q11.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\obj\Debug\net5.0\Q11.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\obj\Debug\net5.0\Q11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\obj\Debug\net5.0\Q11.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\obj\Debug\net5.0\Q11.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\obj\Debug\net5.0\Q11.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\obj\Debug\net5.0\Q11.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\obj\Debug\net5.0\ref\Q11.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\obj\Debug\net5.0\Q11.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q11\obj\Debug\net5.0\Q11.genruntimeconfig.cache

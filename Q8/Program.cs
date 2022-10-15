@@ -14,9 +14,9 @@ namespace Q8
                 toplam+=i;
             }
             Console.WriteLine("Toplam sonucu: " + toplam);
-           //  klavyeden girilen 10 sayının toplamının bulunması
 
-//toplam değişkeni ve sayaç ata
+           //  klavyeden girilen 10 sayının toplamının bulunması
+            //  Toplam değişkeni ve sayaç ata
 
            int toplamm=0;
            int sayi;
@@ -28,6 +28,8 @@ namespace Q8
             toplamm+=sayi;
            }
            Console.WriteLine("Toplam Sonucu: " + toplamm);
+
+           //Sayı okuma ve toplama işlemlerinde sayaç ve toplam kullanılır.
 
 
         }

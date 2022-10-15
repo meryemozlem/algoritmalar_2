@@ -8,10 +8,7 @@ namespace Q3
         {
             //Üçgenin çevresini ve alanını bulan uygulama
             
-
-            
-
-            Console.WriteLine("Üçgenin çevresi için 1'e alanı için 2'ye basınız: ");
+            Console.WriteLine("Üçgenin çevresi için 1'e, alanı için 2'ye basınız: ");
             int cevap=Convert.ToInt16(Console.ReadLine());
             if(cevap==1)
             {
@@ -30,8 +27,7 @@ namespace Q3
                 int taban_uz;
                 taban_uz=Convert.ToInt16(Console.ReadLine());
                 Console.WriteLine("Üçgenin yüksekliğini giriniz");
-                int yukseklik;
-                yukseklik=Convert.ToInt16(Console.ReadLine());
+                int yukseklik=Convert.ToInt16(Console.ReadLine());
                 int alan=(taban_uz*yukseklik)/2;
                 Console.WriteLine("Üçgenin alanı: " + alan);
             }

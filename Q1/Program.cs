@@ -7,7 +7,8 @@ namespace Q1
         static void Main(string[] args)
         {
             // Algoritma Kitabı 1. En hızlı ve en kolay çözüm yolu.
-            //Sayaç=sayaç+1 
+            //Sayaç=sayaç+1
+            
             //Klavyeden girilen iki sayının okunarak toplanması
             // başla    1.sayıyı al     2.sayıyı al     topla   yazdır      bitir
 

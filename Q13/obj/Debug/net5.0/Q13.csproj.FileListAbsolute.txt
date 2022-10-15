@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\obj\Debug\net5.0\Q13.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\obj\Debug\net5.0\Q13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\obj\Debug\net5.0\Q13.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\obj\Debug\net5.0\Q13.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\obj\Debug\net5.0\Q13.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\bin\Debug\net5.0\Q13.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\bin\Debug\net5.0\Q13.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\bin\Debug\net5.0\Q13.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\bin\Debug\net5.0\Q13.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\bin\Debug\net5.0\Q13.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\bin\Debug\net5.0\ref\Q13.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\bin\Debug\net5.0\Q13.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\obj\Debug\net5.0\Q13.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\obj\Debug\net5.0\ref\Q13.dll
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\obj\Debug\net5.0\Q13.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\Q13\obj\Debug\net5.0\Q13.genruntimeconfig.cache

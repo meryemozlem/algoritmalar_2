@@ -6,9 +6,9 @@ namespace Q6
     {
         static void Main(string[] args)
         {
-            // KLAVYEDEN GİRİLEN 2 SAYIDAN BİG OLANINI BUL VE 7 İLE ÇARP
-            Console.Write("ilk sayıyı giriniz: ");
+            // KLAVYEDEN GİRİLEN 2 SAYIDAN BİG OLANINI BUL VE 7 İLE ÇARP 
             int islem;
+            Console.Write("ilk sayıyı giriniz: ");
             int ilk=Convert.ToInt16(Console.ReadLine());
             Console.Write("ikinci sayıyı giriniz: ");
             int ikinci=Convert.ToInt16(Console.ReadLine());
