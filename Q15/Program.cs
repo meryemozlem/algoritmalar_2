@@ -11,16 +11,24 @@ namespace Q15
             
             Console.Write("1 sayı giriniz: ");
             int sayi=Convert.ToInt16(Console.ReadLine());
-            int bol;
+            int sayac=0;
 
             for(int i=1;i<=sayi;i++)
             {
-                bol=(sayi/i);
+                if (sayi%i==0)
+                {
+                    sayac++;
+                }
                 
             }
-            Console.WriteLine("Cevap: " + bol);
-            //Consoel.Write("BU sayı diğer say");
-            
+            if(sayac==2)
+            {
+                Console.WriteLine("Girdiğin {0} Sayısı asaldır." , sayi);
+            }
+            else
+            {    
+                Console.WriteLine("Girdiğin {0} Sayı asal değildir" , sayi);
+            }    
         }
     }
 }

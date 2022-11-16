@@ -1,0 +1,7 @@
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\arı_cshrp\arı_cshrp\bin\Debug\arı_cshrp.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\arı_cshrp\arı_cshrp\bin\Debug\arı_cshrp.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\arı_cshrp\arı_cshrp\bin\Debug\arı_cshrp.pdb
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\arı_cshrp\arı_cshrp\obj\Debug\arı_cshrp.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\arı_cshrp\arı_cshrp\obj\Debug\arı_cshrp.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\arı_cshrp\arı_cshrp\obj\Debug\arı_cshrp.exe
+C:\Users\mozay\OneDrive\Masaüstü\Algorithm_basics\arı_cshrp\arı_cshrp\obj\Debug\arı_cshrp.pdb

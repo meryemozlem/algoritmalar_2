@@ -1,1 +1,0 @@
-# algoritmalar_2

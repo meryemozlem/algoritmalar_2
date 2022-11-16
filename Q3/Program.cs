@@ -23,13 +23,14 @@ namespace Q3
 
             else if(cevap==2)
             {   
-                Console.WriteLine("Üçgenin taban uzunluğunu giriniz");
+                Console.WriteLine("Üçgenin taban uzunluğunu (cm) giriniz");
                 int taban_uz;
                 taban_uz=Convert.ToInt16(Console.ReadLine());
-                Console.WriteLine("Üçgenin yüksekliğini giriniz");
+                Console.WriteLine("Üçgenin yüksekliğini (cm) giriniz");
                 int yukseklik=Convert.ToInt16(Console.ReadLine());
                 int alan=(taban_uz*yukseklik)/2;
-                Console.WriteLine("Üçgenin alanı: " + alan);
+                Console.WriteLine("Alan :{0}" , alan);
+                //Console.WriteLine("Üçgenin alanı: " + alan);
             }
 
             else
